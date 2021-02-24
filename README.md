@@ -6,6 +6,8 @@
   
 The Project is still under development.
 
+Live on Heroku: http://picozi.herokuapp.com/
+
 ## Features :point_down:
 
 -  **Upload an Image and apply simple filters to enhance the image.**
